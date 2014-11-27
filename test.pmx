@@ -1,0 +1,10 @@
+---
+name: test
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: centurylink_haproxy-etcd_latest
+  source: centurylink/haproxy-etcd:latest
+  type: Default
